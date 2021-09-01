@@ -1,5 +1,25 @@
 ### Hi there 👋
+## I am Sun, A Web Developer
 
+I am good at:
+<ul>
+<li>Javascript</li>
+<li>React</li>
+<li>Node.js</li>
+<li>PHP</li>
+<li>Python</li>
+<li>C#</li>
+</ul>
+
+You can reach me at:
+<ul>
+<li>
+<a href="https://facebook.com/sun.podder.09">Facebook</a><br>
+</li>
+<li>
+<a href="https://instagram.com/sunpodder.09">Instagram</a><br>
+</li>
+</ul>
 <!--
 **SunPodder/SunPodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
