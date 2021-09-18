@@ -10,12 +10,12 @@ I am good at:
 <li>Python</li>
 <li>C#</li>
 </ul>
-
 <br>
+
 🔭 Currently working at making some small libraries (**Javascript, Python**)
 to optimize the code we need for our daily usage.
 
-So if you want to join me, just leave a hi!
+So if you want to join me, just leave a  Hi!👋
 
 <br>
 📫 You can reach me at:
