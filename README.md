@@ -13,7 +13,7 @@ I am good at:
 <br>
 
 🔭 Currently working at making some small libraries (**Javascript, Python**)
-to optimize the code we need for our daily usage.
+based on the code we need for our daily usage.
 
 So if you want to join me, just leave a  Hi!👋
 
