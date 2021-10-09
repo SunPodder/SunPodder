@@ -12,8 +12,12 @@ I am good at:
 </ul>
 <br>
 
-🔭 Currently working at making some small libraries (**Javascript, Python**)
-based on the code we need for our daily usage.
+[![](https://github-readme-stats.vercel.app/api?username=SunPodder&theme=yeblu&show_icons=true) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
+<br>
+
+🔭 I'm currently working at making some small libraries (**Javascript, Python**)
+based on some simple code snippets we need for our daily usage.
 
 So if you want to join me, just leave a  Hi!👋
 
