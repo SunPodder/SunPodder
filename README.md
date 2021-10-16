@@ -11,10 +11,10 @@ I am good at:
 <li>C#</li>
 </ul>
 <br>
-
+<!--
 [![](https://github-readme-stats.vercel.app/api?username=SunPodder&theme=yeblu&show_icons=true) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
-<br>
+<br>-->
 
 🔭 I'm currently working at making some small libraries (**Javascript, Python**)
 based on some simple code snippets we need for our daily usage.
