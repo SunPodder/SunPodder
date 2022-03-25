@@ -1,14 +1,14 @@
 ### Hi there 👋
 ## I am Sun, A Web Developer
 
-I am good at:
+Good at:
 <ul>
 <li>Javascript</li>
 <li>React</li>
 <li>Node.js</li>
 <li>PHP</li>
 <li>Python</li>
-<li>C#</li>
+<li>Java</li>
 </ul>
 <br>
 <!--
@@ -16,10 +16,8 @@ I am good at:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
 <br>-->
 
-🔭 I'm currently working at making some small libraries (**Javascript, Python**)
-based on some simple code snippets we need for our daily usage.
-
-So if you want to join me, just leave a  Hi!👋
+🔭 Learning Android Development. Hoping to contribute to the community soon.
+Also busy with academic studies this year.
 
 <br>
 📫 You can reach me at:
