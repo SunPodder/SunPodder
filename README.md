@@ -4,7 +4,6 @@
 Good at:
 <ul>
 <li>Javascript</li>
-<li>React</li>
 <li>Node.js</li>
 <li>PHP</li>
 <li>Python</li>
@@ -17,7 +16,6 @@ Good at:
 <br>-->
 
 🔭 Learning Android Development. Hoping to contribute to the community soon.
-Also busy with academic studies this year.
 
 <br>
 📫 You can reach me at:
