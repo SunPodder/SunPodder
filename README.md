@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am Sun, A Web Developer
+## I am Sun
 
 Good at:
 <ul>
