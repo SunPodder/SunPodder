@@ -15,8 +15,12 @@ Good at:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
 <br>-->
 
-🔭 Learning Android Development. Hoping to contribute to the community soon.
+🔭 Learning low level development.. (C and Assembly x86)
 
+<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
+
+<br>
 <br>
 📫 You can reach me at:
 <ul>
