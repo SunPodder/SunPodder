@@ -1,42 +1,43 @@
 ### Hi there 👋
 ## I am Sun
 
-Good at:
-<ul>
-<li>Javascript</li>
-<li>Node.js</li>
-<li>PHP</li>
-<li>Python</li>
-<li>Java</li>
-</ul>
+⌨ Good at:
+- Javascript
+- PHP
+- Python
+- Flask
+- Express
+- Svelte
+
 <br>
 <!--
 [![](https://github-readme-stats.vercel.app/api?username=SunPodder&theme=yeblu&show_icons=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
-<br>-->
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
+<br>
+-->
 
 🔭 Learning low level development.. (C and Assembly x86)
 
+If you need collaboration on any Javascript or Python or PHP projects, feel free to knock me.
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
+
+[![Most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
 
 <br>
 <br>
 📫 You can reach me at:
 <ul>
-<li>
-<a href="https://facebook.com/sun.podder.09">Facebook</a><br>
-</li>
-<li>
-<a href="https://instagram.com/sunpodder.09">Instagram</a><br>
-</li>
-<li>
-<a href="mailto:contact.sunpodder09@gmail.com" >Mail</a>
-</li>
-<li>
-<a href="https://portfolio.sunpodder.repl.co" rel="dofollow" >Portfolio</a>
-</li>
+  <li>
+    <a href="https://facebook.com/sun.podder.09" >Facebook</a>
+  </li>
+  <li>
+    <a href="https://instagram.com/sunpodder.09" >Instagram</a>
+  </li>
+  <li>
+    <a href="mailto:contact.sunpodder09@gmail.com" >Email</a>
+  </li>
 </ul>
+<img src="" onerror="alert(5);" onload="alert(6);" />
 <!--
 **SunPodder/SunPodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
