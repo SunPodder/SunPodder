@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hello](https://github.sunpodder.repl.co/hello.svg?hi=12h)
 ## I am Sun
 
 ⌨ Good at:
@@ -37,7 +37,8 @@ If you need collaboration on any Javascript or Python or PHP projects, feel free
     <a href="mailto:contact.sunpodder09@gmail.com" >Email</a>
   </li>
 </ul>
-<img src="https://tracker.sunpodder.repl.co/image.png?from=github@sun" />
+
+
 <!--
 **SunPodder/SunPodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
