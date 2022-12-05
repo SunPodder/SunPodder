@@ -1,5 +1,4 @@
-![Hello](https://github.sunpodder.repl.co/hello.svg?hi=12h)
-## I am Sun
+# I am Sun
 
 ⌨ Good at:
 - Javascript
