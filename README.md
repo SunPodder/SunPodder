@@ -2,11 +2,9 @@
 
 ⌨ Good at:
 - Javascript
-- PHP
 - Python
-- Flask
-- Express
-- Svelte
+- Bash
+- C
 
 <br>
 <!--
@@ -17,7 +15,7 @@
 
 🔭 Learning low level development.. (C and Assembly x86)
 
-If you need collaboration on any Javascript or Python or PHP projects, feel free to knock me.
+If you need collaboration on any project (**Rust**/**Go** preferred), feel free to knock me.
 <br>
 
 [![Most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
