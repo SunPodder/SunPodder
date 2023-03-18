@@ -1,52 +1,21 @@
-# I am Sun
+# Hi there, I'm Sun! 👋
 
-⌨ Good at:
-- Javascript
-- Python
-- Bash
-- C
+## 🚀 About Me
+I'm a software developer based in Bangladesh. I'm experienced in JavaScript, Python, Bash, and C, and currently learning low-level development with C and Assembly x86. I'm always eager to collaborate on open-source projects, especially those written in C++ or Go.
 
-<br>
-<!--
-[![](https://github-readme-stats.vercel.app/api?username=SunPodder&theme=yeblu&show_icons=true) 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
-<br>
--->
+## 🛠️ Tech Stack
+- 💻 Languages: JavaScript, Python, Bash, C, C++, Go
+- 🧰 Frameworks/Libraries: React, Node.js, Express, Flask, Django
+- 🛢️ Databases: MongoDB, MySQL, SurrealDB
+- 🔧 Tools: Git, Neovim, Docker, Linux, Qemu
 
-🔭 Learning low level development.. (C and Assembly x86)
+## 📈 GitHub Stats
+[![Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunPodder&show_icons=true&theme=dark)](https://github.com/SunPodder)
 
-If you need collaboration on any project (**Rust**/**Go** preferred), feel free to knock me.
-<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&layout=compact&theme=dark)](https://github.com/SunPodder)
 
-[![Most use languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&theme=shades-of-purple&layout=compact)](https://github.com/SunPodder)
-
-<br>
-<br>
-📫 You can reach me at:
-<ul>
-  <li>
-    <a href="https://facebook.com/sun.podder.09" >Facebook</a>
-  </li>
-  <li>
-    <a href="https://instagram.com/sunpodder.09" >Instagram</a>
-  </li>
-  <li>
-    <a href="mailto:contact.sunpodder09@gmail.com" >Email</a>
-  </li>
-</ul>
-
-
-<!--
-**SunPodder/SunPodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝🏻 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/sun-podder-610a63211/)
+- [Facebook](https://www.facebook.com/sun.podder.09)
+- [Instagram](https://www.instagram.com/sunpodder.09/)
+- [Email](mailto:contact.sunpodder09@gmail.com)
