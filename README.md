@@ -15,7 +15,7 @@ I'm a software developer based in Bangladesh. I'm experienced in JavaScript, Pyt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&layout=compact&theme=dark)](https://github.com/SunPodder)
 
 ## 🤝🏻 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/sun-podder-610a63211/)
+- [LinkedIn](https://www.linkedin.com/in/sunpodder/)
 - [Facebook](https://www.facebook.com/sun.podder.09)
-- [Instagram](https://www.instagram.com/sunpodder.09/)
+- [Instagram](https://www.instagram.com/sunpodder/)
 - [Email](mailto:contact.sunpodder09@gmail.com)
