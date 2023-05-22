@@ -10,9 +10,19 @@ I'm a software developer based in Bangladesh. I'm experienced in JavaScript, Pyt
 - 🔧 Tools: Git, Neovim, Docker, Linux, Qemu
 
 ## 📈 GitHub Stats
-[![Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=SunPodder&show_icons=true&theme=dark)](https://github.com/SunPodder)
+<p align="center">
+  <a href="https://github.com/SunPodder">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunPodder&theme=transparent" />
+  </a>
+  <a href="https://github.com/SunPodder">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunPodder&theme=transparent&card_width=338&hide=stars" />
+  </a>
+  <a href="https://github.com/SunPodder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&exclude_repo=&hide=vim%20script,cmake,html,css,makefile&layout=compact&hide_border=true&theme=transparent&card_width=338" />
+    
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunPodder&layout=compact&theme=dark)](https://github.com/SunPodder)
 
 ## 🤝🏻 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/sunpodder/)
