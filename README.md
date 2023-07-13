@@ -11,9 +11,9 @@ I'm a software developer based in Bangladesh. I'm experienced in JavaScript, Pyt
 
 ## 📈 GitHub Stats
 <p align="center">
-  <a href="https://github.com/SunPodder">
+  <!--<a href="https://github.com/SunPodder">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SunPodder&theme=transparent" />
-  </a>
+  </a>-->
   <a href="https://github.com/SunPodder">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SunPodder&theme=transparent&card_width=338&hide=stars" />
   </a>
