@@ -1,11 +1,11 @@
 # Hi there, I'm Sun! 👋
 
 ## 🚀 About Me
-I'm a software developer based in Bangladesh. I'm experienced in JavaScript, Python, Bash, and C, and currently learning low-level development with C and Assembly x86. I'm always eager to collaborate on open-source projects, especially those written in C++ or Go.
+I'm a software developer based in Bangladesh. I'm experienced in JavaScript, Python, Bash, Rust and C, and currently learning low-level development with C and Assembly x86. I'm always eager to collaborate on open-source projects, especially those written in Rust or Go.
 
 ## 🛠️ Tech Stack
-- 💻 Languages: JavaScript, Python, Bash, C, C++, Go
-- 🧰 Frameworks/Libraries: React, Node.js, Express, Flask, Django
+- 💻 Languages: JavaScript, Python, Bash, C, Lua, Go
+- 🧰 Frameworks/Libraries: Sveltekit, Node.js, Express, Flask
 - 🛢️ Databases: MongoDB, MySQL, SurrealDB
 - 🔧 Tools: Git, Neovim, Docker, Linux, Qemu
 
