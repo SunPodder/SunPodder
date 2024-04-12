@@ -5,7 +5,7 @@ I'm a software developer based in Bangladesh. I'm experienced in JavaScript, Pyt
 
 ## 🛠️ Tech Stack
 - 💻 Languages: JavaScript, Python, Bash, C, C++, Lua, Go
-- 🧰 Frameworks/Libraries: Sveltekit, Node.js, Express, Flask
+- 🧰 Frameworks/Libraries: Next.js, Sveltekit, Express, Flask, Gin
 - 🛢️ Databases: MongoDB, MySQL, SurrealDB
 - 🔧 Tools: Git, Neovim, Docker, Linux, Qemu
 
