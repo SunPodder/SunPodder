@@ -1,7 +1,7 @@
 # Hi there, I'm Sun! 👋
 
 ## 🚀 About Me
-I'm a software developer based in Bangladesh. I'm experienced in TypeScript, Python and C++, and currently learning low-level development with C and Assembly x86. I'm always eager to collaborate on open-source projects, especially those written in C++ or Zig.
+I'm a software developer based in Bangladesh. I'm experienced in TypeScript, Python and C++, and currently learning low-level development with C and Assembly x86. I'm always eager to collaborate on open-source projects, especially those written in Python and Zig.
 
 ## 🛠️ Tech Stack
 - 💻 Languages: TypeScript, Python, Bash, C++, Lua
